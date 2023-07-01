@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## Xinhao Li (李新浩)
 
 <!-- <img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480"> -->
 
