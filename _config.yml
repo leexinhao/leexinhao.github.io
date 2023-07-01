@@ -1,21 +1,21 @@
-title: Hanlin Cai
+title: Xinhao Li
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://xinhaoli.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Xinhao Li
+  avatar: xinhao.png
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: xinhaoli00@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  github: leexinhao
+  # linkedin: hanlin-cai-07b53b23b
+  scholar: https://scholar.google.com
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -42,13 +42,13 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -84,4 +84,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 
 # Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# URL: https://xinhaoli.com/
