@@ -6,7 +6,7 @@ url: https://leexinhao.github.io
 
 # Owner/author information
 owner:
-  name: Xinhao Li
+  name: Xinhao Li2
   avatar: xinhao.png
 #  bio:
   email: xinhaoli00@outlook.com
@@ -38,10 +38,10 @@ links:
   #   url: /file/Resume-HanlinCAI.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Awards
-    url: /awards/
+  # - title: Projects
+  #   url: /projects/
+  # - title: Awards
+  #   url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: xinhao
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

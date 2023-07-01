@@ -2,12 +2,12 @@
 layout: page
 ---
 
-## Xinhao Li (李新浩)
+### Biography
 
 <!-- <img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480"> -->
 
 I am an incoming MS student at *Nanjing University* (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from *Chongqing University* in 2023.06.
-I am now working as a research intern in [<font color="#006ab1">Shanghai Artificial Intelligence Laboratory</font>](https://www.shlab.org.cn/) (2023.07—present). Before that, I worked as an intern in [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am now working as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—present). Before that, I worked as an intern in [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 <br>
 
@@ -23,7 +23,7 @@ I am now working as a research intern in [<font color="#006ab1">Shanghai Artific
 
 --- -->
 
-## Research Interests
+### Research Interests
 
 My research interests lies at the computer vision and multimodal:
 
@@ -39,7 +39,7 @@ I am particularly interested in the progress of the above direction in the field
 
 ---
 
-## News and Updates
+### News and Updates
 
 - **June 2023：**Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
 
