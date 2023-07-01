@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480"> -->
 
 I am an incoming MS student at Nanjing University (2023.09—2026.06 if everything goes as expected), supervised by Prof. [Limin Wang](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from Chongqing University in 2023.06.
 
