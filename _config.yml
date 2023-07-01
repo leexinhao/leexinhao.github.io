@@ -34,12 +34,12 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/Resume-HanlinCAI.pdf
+  # - title: Resume
+  #   url: /file/Resume-HanlinCAI.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+  # - title: Projects
+  #   url: /projects/
   - title: Awards
     url: /awards/
   # - title: Hobbies
