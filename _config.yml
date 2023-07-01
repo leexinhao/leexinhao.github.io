@@ -1,13 +1,13 @@
 title: Xinhao Li
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+# tagline: Don’t dwell on the past.
+description: Don’t dwell on the past.
 #Comment out url when working locally to resolve base urls correctly
 url: https://leexinhao.github.io
 
 # Owner/author information
 owner:
   name: Xinhao Li
-  avatar: https://leexinhao.github.io/xinhao.jpg
+  avatar: xinhao.jpg
 #  bio:
   email: xinhaoli00@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.

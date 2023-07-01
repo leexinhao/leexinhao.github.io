@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Xinhao Li (李新浩)
+# About Me
 
 <img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480">
 
@@ -26,11 +26,15 @@ I am now working as a research intern in [Shanghai Artificial Intelligence Labor
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+My research interests lies at the computer vision and multimodal:
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Multimodal Instruction-following Agents
+- Parameter-Efficient Transfer Learning
+- Vision-language representation learning
+- Vision Foundation Models
+
+I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently.
+
 
 <br>
 
