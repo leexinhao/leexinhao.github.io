@@ -6,9 +6,9 @@ layout: page
 
 <!-- <img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480"> -->
 
-I am an incoming MS student at *Nanjing University* (2023.09—2026.06 if everything goes as expected), supervised by Prof. [**Limin Wang**](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from *Chongqing University* in 2023.06.
+I am an incoming MS student at *Nanjing University* (2023.09—2026.06 if everything goes as expected), supervised by Prof. [<font color="#006ab1">**Limin Wang**</font>](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from *Chongqing University* in 2023.06.
 
-I am now working as a research intern in [**Shanghai Artificial Intelligence Laboratory**](https://www.shlab.org.cn/) (2023.07—present). Before that, I worked as an intern in  [**SenseTime Group Limited**](https://www.sensetime.com) (2022.10—2023.06).
+I am now working as a research intern in [<font color="#006ab1">**Shanghai Artificial Intelligence Laboratory**</font>](https://www.shlab.org.cn/) (2023.07—present). Before that, I worked as an intern in  [<font color="#006ab1">**SenseTime Group Limited**</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 <br>
 
