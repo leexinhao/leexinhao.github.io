@@ -7,7 +7,7 @@ url: https://leexinhao.github.io
 # Owner/author information
 owner:
   name: Xinhao Li
-  avatar: xinhao.jpg
+  avatar: https://leexinhao.github.io/xinhao.jpg
 #  bio:
   email: xinhaoli00@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -32,7 +32,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Xinhao Li (李新浩)
     url: /
   # - title: Resume
   #   url: /file/Resume-HanlinCAI.pdf
