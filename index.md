@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://xinhaoli.com/xinhaoli.jpg" class="floatpic" width="360" height="480">
+<img src="https://leexinhao.github.io/xinhaoli.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://xinhaoli.com/file/蔡汉霖简历.pdf))**.
+Here is **Hanlin Cai (Lance, [蔡汉霖](https://leexinhao.github.io/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://xinhaoli.com/file/Resume-HanlinCAI.pdf).
+I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://leexinhao.github.io/file/Resume-HanlinCAI.pdf).
 
 <br>
 

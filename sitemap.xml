@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://xinhaoli.com/</loc>
+      <loc>https://leexinhao.github.io/</loc>
     </url>
     <url>
-      <loc>https://xinhaoli.com/file/Resume-HanlinCAI.pdf</loc>
+      <loc>https://leexinhao.github.io/file/Resume-HanlinCAI.pdf</loc>
     </url>
     <url>
-      <loc>https://xinhaoli.com/publications/</loc>
+      <loc>https://leexinhao.github.io/publications/</loc>
     </url>    
     <url>
-      <loc>https://xinhaoli.com/projects/</loc>
+      <loc>https://leexinhao.github.io/projects/</loc>
     </url>
     <url>
-      <loc>https://xinhaoli.com/awards/</loc>
+      <loc>https://leexinhao.github.io/awards/</loc>
     </url>   
     <url>
-      <loc>https://xinhaoli.com/hobbies/</loc>
+      <loc>https://leexinhao.github.io/hobbies/</loc>
     </url>
     <url>
-      <loc>https://xinhaoli.com/blogs/</loc>
+      <loc>https://leexinhao.github.io/blogs/</loc>
     </url>
 
     {% comment %}

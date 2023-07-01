@@ -2,7 +2,7 @@ title: Xinhao Li
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://xinhaoli.com
+url: https://leexinhao.github.io
 
 # Owner/author information
 owner:
@@ -84,4 +84,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 
 # Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://xinhaoli.com/
+# URL: https://leexinhao.github.io/
