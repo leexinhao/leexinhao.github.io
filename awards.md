@@ -9,12 +9,7 @@ title: Awards
 - National Scholarship
 - Chongqing innovative ability to promote advanced individuals
 - Future star of Ministry of Education & Huawei Smart base 
-## Competitions
 
-- National finals of Group Programming Ladder Tournament: Individual third prize 
-- China Undergraduate Mathematical Contest in Modeling: National second prize
-- Huawei Cloud AI Competition: National second prize
-- Chinese Collegiate Computing Competition：National second prize
 
 ## Services
 
