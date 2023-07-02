@@ -14,6 +14,7 @@ title: Awards
 - China Undergraduate Mathematical Contest in Modeling: National second prize
 - Huawei Cloud AI Competition: National second prize
 - Chinese Collegiate Computing Competition：National second prize
+
 ## Services
 - Outstanding volunteer of Chongqing University
 
