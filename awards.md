@@ -4,21 +4,21 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## Scholarships & Honors
 
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-
+- National Scholarship
+- Chongqing innovative ability to promote advanced individuals
+- Future star of Ministry of Education & Huawei Smart base 
 ## Competitions
 
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
-
-## Honors
-
-- May 2023：Outstanding Student Leaders of Fuzhou University
+- National finals of Group Programming Ladder Tournament: Individual third prize 
+- China Undergraduate Mathematical Contest in Modeling: National second prize
+- Huawei Cloud AI Competition: National second prize
+- Chinese Collegiate Computing Competition：National second prize
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
+- Outstanding volunteer of Chongqing University
 
 
 Lastest Update: 1th July 2023 &nbsp; [中文 (Chinese Version)](https://leexinhao.github.io/awards-zh/)
