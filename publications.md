@@ -6,6 +6,11 @@ title: Publications
 
 I'm working on it.
 
+## 2023
+<!-- InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation
+ <br> Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinyuan Chen, Yaohui Wang, **Xinhao Li**, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao<br>
+
+ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video <br>**Xinhao Li**, Limin Wang<br> -->
 <!-- ## Conference Paper
 
 - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://leexinhao.github.io/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://leexinhao.github.io/mypaper/slides/2023-ICAROB-Pre.pdf).
