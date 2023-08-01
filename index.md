@@ -24,10 +24,10 @@ My research interests lies at the computer vision and multimodal:
 
 - Multimodal Instruction-following Agents
 - Parameter-Efficient Transfer Learning
-- Vision-language representation learning
+- Vision-Language Representation Learning
 - Vision Foundation Models
 
-I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently.
+I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently. Additionally, I am researching large-scale video-text pre-training and the establishment of video foundation models.
 
 
 ---
