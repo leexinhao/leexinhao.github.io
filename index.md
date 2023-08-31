@@ -22,12 +22,13 @@ I am an incoming MS student at **Nanjing University** (2023.09—2026.06 if ever
 
 My research interests lies at the computer vision and multimodal:
 
-- Multimodal Instruction-following Agents
-- Parameter-Efficient Transfer Learning
 - Vision-Language Representation Learning
 - Vision Foundation Models
+- Multimodal Instruction-following Agents
+- Parameter-Efficient Transfer Learning
 
-I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently. Additionally, I am researching large-scale video-text pre-training and the establishment of video foundation models.
+
+I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching large-scale video-text pre-training and the establishment of video foundation models. Additionally, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently.
 
 
 ---
