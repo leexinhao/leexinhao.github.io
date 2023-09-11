@@ -6,7 +6,7 @@ layout: page
 
 ## Biography
 
-<img src="images/big_xinhao.jpg" width="654" height="557">
+<img src="images/big_xinhao.jpg" width="327" height="279">
 
 > Nice to meet you !!!😊
 
