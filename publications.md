@@ -10,7 +10,7 @@ title: Publications
 
 I'm working on it.
 
-> ***ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video.*** [[Paper]]()[[Code]]()
+> ***ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video.*** [[Paper]](https://arxiv.org/abs/2310.01324)[[Code]]()
 
 **Xinhao Li**, Limin Wang (under review) 
 
