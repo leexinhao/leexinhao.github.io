@@ -42,6 +42,7 @@ I am particularly interested in the progress of the above direction in the field
 
 ## News and Updates
 
-- **June 2023：**Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
+- **Dec 2023:** Accepted by 🐼.
+- **June 2023** Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
 
 <br>

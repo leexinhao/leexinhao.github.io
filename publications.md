@@ -17,3 +17,13 @@ I'm working on it.
 > ***InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.*** [[Paper]](https://arxiv.org/abs/2307.06942)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) 
 
 Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, **Xinhao Li**, Guo Chen, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao (under review) 
+
+<!-- > peft4 video-text
+
+> InternVideo v2
+
+> video-text pretraining
+
+> audio-video-text pretraining
+
+> video adaptation benchmark -->
