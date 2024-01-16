@@ -42,7 +42,7 @@ I am particularly interested in the progress of the above direction in the field
 
 ## News and Updates
 
-- **Jan 2024:** One paper accepted by ICLR (spotlight).
+- **Jan 2024:** One paper accepted by ICLR2024 (spotlight).
 - **Dec 2023:** Accepted by 🐼.
 - **June 2023** Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
 
