@@ -14,9 +14,9 @@ I'm working on it.
 
 **Xinhao Li**, Limin Wang (under review) 
 
-> ***InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.*** [[Paper]](https://arxiv.org/abs/2307.06942)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) 
+> ***InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.*** [[Paper]](https://openreview.net/forum?id=MLBdiWu4Fw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) 
 
-Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, **Xinhao Li**, Guo Chen, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao (under review) 
+Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, **Xinhao Li**, Guo Chen, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao (ICLR2024 spotlight) 
 
 <!-- > peft4 video-text
 
