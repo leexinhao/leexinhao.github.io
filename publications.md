@@ -6,7 +6,7 @@ title: Publications
 
 ## 2024
 
-> ***VideoMamba: State Space Model for Efficient Video Understanding.*** [[Paper]](https://arxiv.org/abs/2403.06977)[[Code]]()
+> ***VideoMamba: State Space Model for Efficient Video Understanding.*** [[Paper]](https://arxiv.org/abs/2403.06977)[[Code]](https://github.com/OpenGVLab/VideoMamba)
 
 Kunchang Li, **Xinhao Li**, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
 
