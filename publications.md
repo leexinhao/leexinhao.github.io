@@ -10,7 +10,7 @@ title: Publications
 
 Kunchang Li, **Xinhao Li**, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
 
-> ***InternVideo2: Scaling Foundation Models for Multimodal Video Understanding.*** [[Paper]]()[[Code]]()
+> ***InternVideo2: Scaling Foundation Models for Multimodal Video Understanding.*** [[Paper]](https://arxiv.org/pdf/2403.15377.pdf)[[Code]](https://github.com/OpenGVLab/InternVideo2)
 
 Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, SongZe Li, hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang (\* Equal contribution)
 

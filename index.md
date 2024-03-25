@@ -42,6 +42,8 @@ I am particularly interested in the progress of the above direction in the field
 
 ## News and Updates
 
+- **Mar 2024:** We present [InternVideo2](https://arxiv.org/pdf/2403.15377.pdf), the currently largest (6B parameters) and most powerful video foundation model.
+- **Mar 2024:** We present [VideoMamba](https://arxiv.org/abs/2403.06977), an efficient video backbone architecture with the potential to serve as an alternative to the video transformer architecture.
 - **Jan 2024:** One paper accepted by ICLR2024 (spotlight).
 - **Dec 2023:** Accepted by 🐼.
 - **June 2023** Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
