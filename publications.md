@@ -6,7 +6,7 @@ title: Publications
 
 ## 2024
 
-> ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model. ***[[Paper]]()[[Code]](https://github.com/leexinhao/VideoEval)
+> ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]]()[[Code]](https://github.com/leexinhao/VideoEval)
 
 **Xinhao Li**, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang
 
