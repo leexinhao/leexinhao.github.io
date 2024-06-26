@@ -6,6 +6,10 @@ title: Publications
 
 ## 2024
 
+> ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model. ***[[Paper]]()[[Code]](https://github.com/leexinhao/VideoEval)
+
+**Xinhao Li**, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang
+
 > ***VideoMamba: State Space Model for Efficient Video Understanding.*** [[Paper]](https://arxiv.org/abs/2403.06977)[[Code]](https://github.com/OpenGVLab/VideoMamba)
 
 Kunchang Li, **Xinhao Li**, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
