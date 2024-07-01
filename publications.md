@@ -22,7 +22,7 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 > ***ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video.*** [[Paper]](https://arxiv.org/abs/2310.01324)[[Code]](https://github.com/leexinhao/ZeroI2V)
 
-**Xinhao Li**, Limin Wang **(ECCV2024)**
+**Xinhao Li**, Yuhan Zhu, Limin Wang **(ECCV2024)**
 
 > ***InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.*** [[Paper]](https://openreview.net/forum?id=MLBdiWu4Fw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) 
 
