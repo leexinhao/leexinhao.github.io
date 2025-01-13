@@ -34,15 +34,16 @@ My research interests lies at the computer vision and multimodal:
 - Parameter-Efficient Transfer Learning
 
 
-I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to build and evaluate the long video mllms.
- <!-- Additionally, I am researching how to utilize pre-trained language models for creating multimodal instruction-following agents that can understand videos excellently. -->
+I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to build and evaluate the long video mllms & video foundation models.
+
 
 
 ---
 
 ## News and Updates
+- **Jan 2025:** 🔥🔥🔥We present [VideoChat-Flash](https://internvideo.github.io/blog/2024-12-31-VideoChat-Flash/) and [VideoChat-Online](https://videochat-online.github.io/), new video mllms and benchmarks for long video understanding.
 - **Jul 2024:** Three papers accepted by ECCV2024.
-- **Mar 2024:** We present [InternVideo2](https://arxiv.org/pdf/2403.15377.pdf), the currently largest (6B parameters) and most powerful video foundation model.
+- **Mar 2024:** 🔥🔥🔥We present [InternVideo2](https://arxiv.org/pdf/2403.15377.pdf), the currently largest (6B parameters) and most powerful video foundation model.
 - **Mar 2024:** We present [VideoMamba](https://arxiv.org/abs/2403.06977), an efficient video backbone architecture with the potential to serve as an alternative to the video transformer architecture.
 - **Jan 2024:** One paper accepted by ICLR2024 (spotlight).
 - **Dec 2023:** Accepted by 🐼.
