@@ -20,7 +20,7 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 > ***Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
 
-Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\* Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang
+Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang
 
 > ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)
 
