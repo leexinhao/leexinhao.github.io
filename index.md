@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<!-- > Nice to meet you !!!😊 Hope you are happy every day!!!💥 -->
+<!-- > Nice to meet you !!!😊 Feel free to contact me! Hope you are happy every day!!!💥 -->
 
 ## Biography
 
