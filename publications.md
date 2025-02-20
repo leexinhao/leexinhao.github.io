@@ -30,7 +30,6 @@ Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Li
 
 **Xinhao Li**, Yuhan Zhu, Limin Wang **(ECCV2024)**
 
-
 # All
 
 ## 2025
