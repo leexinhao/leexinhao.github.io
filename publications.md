@@ -65,7 +65,7 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 > ***TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning.*** [[Paper]](https://arxiv.org/abs/2410.19702)
 
-Xiangyu Zeng, Kunchang Li, Chenting Wang, **Xinhao Li**, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang
+Xiangyu Zeng, Kunchang Li, Chenting Wang, **Xinhao Li**, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang **(ICLR2025)**
 
 ## 2023
 
