@@ -29,6 +29,9 @@ I am particularly interested in the progress of the above direction in the field
 ---
 
 ## News and Updates
+
+- **Feb 2025:** Two papers accepted by CVPR2025.
+
 - **Jan 2025:** 🔥🔥🔥We present [VideoChat-Flash](https://internvideo.github.io/blog/2024-12-31-VideoChat-Flash/) and [VideoChat-Online](https://videochat-online.github.io/), new video mllms and benchmarks for long video understanding.
 - **Jul 2024:** Three papers accepted by ECCV2024.
 - **Mar 2024:** 🔥🔥🔥We present [InternVideo2](https://arxiv.org/pdf/2403.15377.pdf), the currently largest (6B parameters) and most powerful video foundation model.

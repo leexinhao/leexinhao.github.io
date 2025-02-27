@@ -16,11 +16,9 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 **Xinhao Li\***, Yi Wang\*, Jiashuo Yu\*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang
 
-
-
 > ***Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
 
-Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang
+Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
 > ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)
 
@@ -41,12 +39,12 @@ Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Li
 
 > ***Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
 
-Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\* Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang
+Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\* Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
 
 > ***Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment.*** [[Paper]](https://arxiv.org/abs/2412.19326)[[Code]](https://github.com/OpenGVLab/TPO)
 
-Ziang Yan, Zhilin Li, Yinan He, Chenting Wang, Kunchang Li, **Xinhao Li**, Xiangyu Zeng, Zilei Wang, Yali Wang, Yu Qiao, Limin Wang, Yi Wang
+Ziang Yan, Zhilin Li, Yinan He, Chenting Wang, Kunchang Li, **Xinhao Li**, Xiangyu Zeng, Zilei Wang, Yali Wang, Yu Qiao, Limin Wang, Yi Wang  **(CVPR2025)**
 
 > ***Fine-grained Video-Text Retrieval: A New Benchmark and Method*** [[Paper]](https://arxiv.org/pdf/2501.00513)
 
