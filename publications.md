@@ -20,6 +20,10 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
+> ***InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling***  [[Paper]](https://arxiv.org/abs/2501.12386)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5)
+
+Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang
+
 > ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)
 
 **Xinhao Li**, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang
@@ -41,6 +45,9 @@ Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Li
 
 Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\* Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
+> ***InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling***  [[Paper]](https://arxiv.org/abs/2501.12386)
+
+Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang
 
 > ***Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment.*** [[Paper]](https://arxiv.org/abs/2412.19326)[[Code]](https://github.com/OpenGVLab/TPO)
 
@@ -61,7 +68,7 @@ Kunchang Li, **Xinhao Li**, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao **
 
 > ***InternVideo2: Scaling Foundation Models for Multimodal Video Understanding.*** [[Paper]](https://arxiv.org/pdf/2403.15377.pdf)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
 
-Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, SongZe Li, hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang (\* Equal contribution) **(ECCV2024)**
+Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, SongZe Li, hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang **(ECCV2024)**
 
 > ***TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning.*** [[Paper]](https://arxiv.org/abs/2410.19702)
 
