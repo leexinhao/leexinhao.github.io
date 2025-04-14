@@ -32,6 +32,10 @@ Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng
 
 **Xinhao Li**, Yuhan Zhu, Limin Wang **(ECCV2024)**
 
+> ***VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning.*** [[Paper]](https://arxiv.org/abs/2504.06958)[[Code]](https://github.com/OpenGVLab/VideoChat-R1)
+
+**Xinhao Li\***, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang
+
 # All
 
 ## 2025
@@ -56,6 +60,11 @@ Ziang Yan, Zhilin Li, Yinan He, Chenting Wang, Kunchang Li, **Xinhao Li**, Xiang
 > ***Fine-grained Video-Text Retrieval: A New Benchmark and Method*** [[Paper]](https://arxiv.org/pdf/2501.00513)
 
 Yifan Xu, **Xinhao Li**, Yichun Yang, Rui Huang, Limin Wang
+
+> ***VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning.*** [[Paper]](https://arxiv.org/abs/2504.06958)[[Code]](https://github.com/OpenGVLab/VideoChat-R1)
+
+**Xinhao Li\***, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang
+
 ## 2024
 
 > ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)

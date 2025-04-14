@@ -10,7 +10,7 @@ layout: page
 
 > Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. 
 
-I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am also working as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—present). Before that, I worked as an intern in [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am also working as a intern in Moonshot AI. Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 ## Research Interests
 
@@ -29,7 +29,7 @@ I am particularly interested in the progress of the above direction in the field
 ---
 
 ## News and Updates
-
+- **Apr 2025:** 🔥🔥🔥We present [VideoChat-R1](https://arxiv.org/abs/2504.06958), a new attempt of R1-style training for Video MLLM.
 - **Feb 2025:** One paper accepted by ICLR2025 and two papers accepted by CVPR2025.
 
 - **Jan 2025:** 🔥🔥🔥We present [VideoChat-Flash](https://internvideo.github.io/blog/2024-12-31-VideoChat-Flash/) and [VideoChat-Online](https://videochat-online.github.io/), new video mllms and benchmarks for long video understanding.
