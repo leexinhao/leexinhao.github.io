@@ -16,21 +16,21 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 
 ### Building and Evaluation of **Video Foundation Models 🚀**
 
-- Scaling Video Foundation Models：***InternVideo2***
+- Scaling Video Foundation Models：***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
 - Scaling Video-Language Data: *InternVid*
 - Efficient Model Architecture of Video Foundation Model: *Videomamba, ZeroI2V*
 - Evaluation of Video Foundation Models: *VideoEval*
 
 ### Building and Evaluation of **Multimodal Language Models (MLLM) 🦜**
 
-- Fine-Grained and Long Video Understanding: ***VideoChat-Flash**, **InternVideo2.5**, TimeSuite, TPO*
-- Model and Benchmark for Online Video Understanding: ***VideoChat-Online/OVBench**, StreamForest/ODV-Bench*
+- Fine-Grained and Long Video Understanding: ***[VideoChat-Flash](https://arxiv.org/abs/2501.00574)**, **[InternVideo2.5](https://arxiv.org/abs/2501.12386)**, TimeSuite, TPO*
+- Model and Benchmark for Online Video Understanding: ***[VideoChat-Online/OVBench](https://arxiv.org/abs/2501.00584v2)**, StreamForest/ODV-Bench*
 - Benchmark for Video Caption and Retrieval: *CaReBench*
 - Benchmark for Complex Video Reasoning: *VideoReasonBench* 
 
 ### Post-Finetuning for MLLM with **Reinforcement Learning 💪**
 
-- GRPO for Spatial-Temporal Perception: ***VideoChat-R1***
+- GRPO for Spatial-Temporal Perception: ***[VideoChat-R1](https://arxiv.org/abs/2504.06958)***
 - GRPO for Visual Test-Time Scaling: *VTTS*
 - GRPO for Video Caption: *VideoCap-R1*
 - DPO for Long Video Understanding: *LongVPO*

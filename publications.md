@@ -16,7 +16,7 @@ Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, B
 
 **Xinhao Li\***, Yi Wang\*, Jiashuo Yu\*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang
 
-> ***Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
+> ***Online Video Understanding: OVBench and VideoChat-Online*** [[Paper]](https://arxiv.org/abs/2501.00584v2)
 
 Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
@@ -45,7 +45,7 @@ Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng
 **Xinhao Li\***, Yi Wang\*, Jiashuo Yu\*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang
 
 
-> ***Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
+> ***Online Video Understanding: OVBench and VideoChat-Online*** [[Paper]](https://arxiv.org/abs/2501.00584v1)
 
 Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\* Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  **(CVPR2025)**
 
