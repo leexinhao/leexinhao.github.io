@@ -14,24 +14,26 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 
 ## Research Interests
 
-1. Building and Evaluation of **Video Foundation Models 🚀**
+### Building and Evaluation of **Video Foundation Models 🚀**
 
-    - Scaling Video Foundation Models：***InternVideo2***
-    - Scaling Video-Language Data: *InternVid*
-    - Efficient Model Architecture of Video Foundation Model: *Videomamba, ZeroI2V*
-    - Evaluation of Video Foundation Models: *VideoEval*
-2. Building and Evaluation of **Multimodal Language Models (MLLM) 🦜**
+- Scaling Video Foundation Models：***InternVideo2***
+- Scaling Video-Language Data: *InternVid*
+- Efficient Model Architecture of Video Foundation Model: *Videomamba, ZeroI2V*
+- Evaluation of Video Foundation Models: *VideoEval*
 
-    - Fine-Grained and Long Video Understanding: ***VideoChat-Flash**,**InternVideo2.5**, TimeSuite, TPO*
-    - Model and Benchmark for Online Video Understanding: ***VideoChat-Online/OVBench**，StreamForest/ODV-Bench*
-    - Benchmark for Video Caption and Retrieval: *CaReBench*
-    - Benchmark for Complex Video Reason: *VideoReasonBench* 
-3. Post-Finetuning for MLLM with **Reinforcement Learning 💪**
+### Building and Evaluation of **Multimodal Language Models (MLLM) 🦜**
 
-   - GRPO for Spatial-Temporal Perception: ***VideoChat-R1***
-   - GRPO for Visual Test-Time Scaling: *VTTS*
-   - GRPO for Video Caption: *VideoCap-R1*
-   - DPO for Long Video Understanding: *LongVPO*
+- Fine-Grained and Long Video Understanding: ***VideoChat-Flash**,**InternVideo2.5**, TimeSuite, TPO*
+- Model and Benchmark for Online Video Understanding: ***VideoChat-Online/OVBench**，StreamForest/ODV-Bench*
+- Benchmark for Video Caption and Retrieval: *CaReBench*
+- Benchmark for Complex Video Reason: *VideoReasonBench* 
+
+### Post-Finetuning for MLLM with **Reinforcement Learning 💪**
+
+- GRPO for Spatial-Temporal Perception: ***VideoChat-R1***
+- GRPO for Visual Test-Time Scaling: *VTTS*
+- GRPO for Video Caption: *VideoCap-R1*
+- DPO for Long Video Understanding: *LongVPO*
 
 ---
 
