@@ -10,21 +10,28 @@ layout: page
 
 > Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. 
 
-I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in Moonshot AI. Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in [Moonshot AI](https://www.moonshot.cn/). Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 ## Research Interests
 
-My research interests lies at the computer vision and multimodal:
+1. Building and Evaluation of **Video Foundation Models 🚀**
 
-- Vision-Language Representation Learning
-- Vision Foundation Models
-- Multimodal Instruction-following Agents
-- Parameter-Efficient Transfer Learning
+    - Scaling Video Foundation Models：***InternVideo2***
+    - Scaling Video-Language Data: *InternVid*
+    - Efficient Model Architecture of Video Foundation Model: *Videomamba, ZeroI2V*
+    - Evaluation of Video Foundation Models: *VideoEval*
+2. Building and Evaluation of **Multimodal Language Models (MLLM) 🦜**
 
+    - Fine-Grained and Long Video Understanding: ***VideoChat-Flash**，**InternVideo2.5**，TimeSuite，TPO*
+    - Model and Benchmark for Online Video Understanding: ***VideoChat-Online/OVBench**，StreamForest/ODV-Bench*
+    - Benchmark for Video Caption and Retrieval: *CaReBench*
+    - Benchmark for Complex Video Reason: *VideoReasonBench* 
+3. Post-Finetuning for MLLM with **Reinforcement Learning 💪**
 
-I am particularly interested in the progress of the above direction in the field of **video understanding**. Currently, I am researching how to build and evaluate the long video mllms & video reasoning models.
-
-
+   - GRPO for Spatial-Temporal Perception: ***VideoChat-R1***
+   - GRPO for Visual Test-Time Scaling: *VTTS*
+   - GRPO for Video Caption: *VideoCap-R1*
+   - DPO for Long Video Understanding: *LongVPO*
 
 ---
 
