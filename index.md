@@ -26,7 +26,7 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 - Fine-Grained and Long Video Understanding: ***VideoChat-Flash**, **InternVideo2.5**, TimeSuite, TPO*
 - Model and Benchmark for Online Video Understanding: ***VideoChat-Online/OVBench**, StreamForest/ODV-Bench*
 - Benchmark for Video Caption and Retrieval: *CaReBench*
-- Benchmark for Complex Video Reason: *VideoReasonBench* 
+- Benchmark for Complex Video Reasoning: *VideoReasonBench* 
 
 ### Post-Finetuning for MLLM with **Reinforcement Learning 💪**
 
