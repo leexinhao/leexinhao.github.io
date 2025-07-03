@@ -36,6 +36,10 @@ Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng
 
 **Xinhao Li\***, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang
 
+> ***Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities*** [[Paper]](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)[[Code]](https://github.com/MoonshotAI/Kimi-VL)
+
+Kimi Team
+
 # All
 
 ## 2025
@@ -65,6 +69,9 @@ Yifan Xu, **Xinhao Li**, Yichun Yang, Rui Huang, Limin Wang
 
 **Xinhao Li\***, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang
 
+> ***Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities*** [[Paper]](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)[[Code]](https://github.com/MoonshotAI/Kimi-VL)
+
+Kimi Team
 ## 2024
 
 > ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)

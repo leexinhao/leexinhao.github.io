@@ -8,11 +8,13 @@ layout: page
 
 <img src="images/big_xinhao.jpg" style="float: right;" width="327" height="279">
 
-> Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. 
+> Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. WeChat ID is **lxh18470435117**.
 
-I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in [Moonshot AI](https://www.moonshot.cn/). Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/). Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 ## Research Interests
+
+> Any academic exchanges and cooperation are welcome!
 
 ### Building and Evaluation of **Video Foundation Models 🚀**
 
