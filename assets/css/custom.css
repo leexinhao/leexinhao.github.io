@@ -1,8 +1,17 @@
 /* Wider content to reduce side whitespace */
 
-/* Reduce top margin for Biography heading */
+/* Reduce top spacing for main content area */
+#main {
+  margin-top: -1em;
+}
+
+#main article {
+  margin-top: -1em;
+}
+
 .headline-wrap h1 {
-  margin-top: -2.5em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 /* Base: narrow gutters on small screens */
