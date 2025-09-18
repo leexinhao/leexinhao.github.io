@@ -22,6 +22,11 @@
     margin-left:15%;
     margin-right:15%;
   }
+  /* keep article side-by-side with left author sidebar */
+  #main article {
+    margin-left:25%; /* 4.1667% + 16.6667% + 4.1667% */
+    margin-right:5%;
+  }
 }
 
 /* ≥1382px (~86.375em): keep it comfortably wide */
@@ -33,6 +38,12 @@
     width:72%;
     margin-left:14%;
     margin-right:14%;
+  }
+  /* align with larger author sidebar geometry at wide screens */
+  #main article {
+    width:70%;
+    margin-left:29.166666667%; /* 16.6667% + 12.5% */
+    margin-right:0;
   }
 }
 
