@@ -1,0 +1,39 @@
+/* Wider content to reduce side whitespace */
+
+/* Base: narrow gutters on small screens */
+#main article,
+#index,
+.related-articles,
+.footer-wrap footer {
+  display:inline;
+  float:left;
+  width:92%;
+  margin-left:4%;
+  margin-right:4%;
+}
+
+/* ≥600px (~37.5em): increase content width */
+@media only screen and (min-width:37.5em){
+  #main article,
+  #index,
+  .related-articles,
+  .footer-wrap footer {
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+  }
+}
+
+/* ≥1382px (~86.375em): keep it comfortably wide */
+@media only screen and (min-width:86.375em){
+  #main article,
+  #index,
+  .related-articles,
+  .footer-wrap footer {
+    width:72%;
+    margin-left:14%;
+    margin-right:14%;
+  }
+}
+
+
