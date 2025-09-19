@@ -40,14 +40,15 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 ---
 
 ## News and Updates
+- **Feb 2025:** Three papers are accepted by NIPS2025 and one are selected as spotlight.
 - **Apr 2025:** 🔥🔥🔥We present [VideoChat-R1](https://arxiv.org/abs/2504.06958), a new attempt of R1-style training for Video MLLM.
-- **Feb 2025:** One paper accepted by ICLR2025 and two papers accepted by CVPR2025.
+- **Feb 2025:** One paper is accepted by ICLR2025 and two papers are accepted by CVPR2025.
 
 - **Jan 2025:** 🔥🔥🔥We present [VideoChat-Flash](https://internvideo.github.io/blog/2024-12-31-VideoChat-Flash/) and [VideoChat-Online](https://videochat-online.github.io/), new video mllms and benchmarks for long video understanding.
-- **Jul 2024:** Three papers accepted by ECCV2024.
+- **Jul 2024:** Three papers are accepted by ECCV2024.
 - **Mar 2024:** 🔥🔥🔥We present [InternVideo2](https://arxiv.org/pdf/2403.15377.pdf), the currently largest (6B parameters) and most powerful video foundation model.
 - **Mar 2024:** We present [VideoMamba](https://arxiv.org/abs/2403.06977), an efficient video backbone architecture with the potential to serve as an alternative to the video transformer architecture.
-- **Jan 2024:** One paper accepted by ICLR2024 (spotlight).
+- **Jan 2024:** One paper is accepted by ICLR2024 (spotlight).
 - **Dec 2023:** Accepted by 🐼.
 - **June 2023** Happy to graduate from Chongqing University. Thank you to all my classmates and teachers.
 
