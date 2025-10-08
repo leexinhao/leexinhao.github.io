@@ -10,111 +10,120 @@ title: Publications
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/internvideo2.png" alt="InternVideo2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/internvideo2.png" alt="InternVideo2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>InternVideo2: Scaling Foundation Models for Multimodal Video Understanding.</em></strong> <a href="https://arxiv.org/pdf/2403.15377.pdf">[Paper]</a><a href="https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2">[Code]</a></p>
+</blockquote>
 
-> ***InternVideo2: Scaling Foundation Models for Multimodal Video Understanding.*** [[Paper]](https://arxiv.org/pdf/2403.15377.pdf)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
-
-Yi Wang\*, Kunchang Li\*, **Xinhao Li\***, Jiashuo Yu\*, Yinan He\*, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, SongZe Li, hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang (\* Equal contribution) <span style="color:#8B0000;">**(ECCV2024)**</span>
+<p>Yi Wang\*, Kunchang Li\*, <strong>Xinhao Li\*</strong>, Jiashuo Yu\*, Yinan He\*, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, SongZe Li, hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang (\* Equal contribution) <span style="color:#8B0000;"><strong>(ECCV2024)</strong></span></p>
 </div>
 </div>
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/internvideo2.5.png" alt="InternVideo2.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/internvideo2.5.png" alt="InternVideo2.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling</em></strong>  <a href="https://arxiv.org/abs/2501.12386">[Paper]</a><a href="https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5">[Code]</a></p>
+</blockquote>
 
-> ***InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling***  [[Paper]](https://arxiv.org/abs/2501.12386)[[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5)
-
-Yi Wang\*,  **Xinhao Li\***, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang
+<p>Yi Wang\*,  <strong>Xinhao Li\*</strong>, Ziang Yan\*, Yinan He\*, Jiashuo Yu\*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang</p>
 </div>
 </div>
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/videochat-flash.png" alt="VideoChat-Flash" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videochat-flash.png" alt="VideoChat-Flash" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling</em></strong> <a href="https://arxiv.org/abs/2501.00574">[Paper]</a><a href="https://github.com/OpenGVLab/VideoChat-Flash">[Code]</a></p>
+</blockquote>
 
-> ***VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling*** [[Paper]](https://arxiv.org/abs/2501.00574)[[Code]](https://github.com/OpenGVLab/VideoChat-Flash)
-
-**Xinhao Li\***, Yi Wang\*, Jiashuo Yu\*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang
+<p><strong>Xinhao Li\*</strong>, Yi Wang\*, Jiashuo Yu\*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang</p>
 </div>
 </div>
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/videochat-online.png" alt="VideoChat-Online" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videochat-online.png" alt="VideoChat-Online" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>Online Video Understanding: OVBench and VideoChat-Online</em></strong> <a href="https://arxiv.org/abs/2501.00584v2">[Paper]</a></p>
+</blockquote>
 
-> ***Online Video Understanding: OVBench and VideoChat-Online*** [[Paper]](https://arxiv.org/abs/2501.00584v2)
-
-Zhenpeng Huang\*, **Xinhao Li\***, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  <span style="color:#8B0000;">**(CVPR2025)**</span>
+<p>Zhenpeng Huang\*, <strong>Xinhao Li\*</strong>, Jiaqi Li\*, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang  <span style="color:#8B0000;"><strong>(CVPR2025)</strong></span></p>
 </div>
 </div>
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/videochat-r1.png" alt="VideoChat-R1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videochat-r1.png" alt="VideoChat-R1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning.</em></strong> <a href="https://arxiv.org/abs/2504.06958">[Paper]</a><a href="https://github.com/OpenGVLab/VideoChat-R1">[Code]</a></p>
+</blockquote>
 
-> ***VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning.*** [[Paper]](https://arxiv.org/abs/2504.06958)[[Code]](https://github.com/OpenGVLab/VideoChat-R1)
-
-**Xinhao Li\***, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang
+<p><strong>Xinhao Li\*</strong>, Ziang Yan\*, Desen Meng, Lu Dong, Xiangyu Zeng, Yinan He, Yali Wang, Yu Qiao, Yi Wang, Limin Wang</p>
 </div>
 </div>
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/videochat-r1.5.png" alt="VideoChat-R1.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videochat-r1.5.png" alt="VideoChat-R1.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception.</em></strong> <a href="https://arxiv.org/abs/2509.21100">[Paper]</a><a href="https://github.com/OpenGVLab/VideoChat-R1">[Code]</a></p>
+</blockquote>
 
-> ***VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception.*** [[Paper]](https://arxiv.org/abs/2509.21100)[[Code]](https://github.com/OpenGVLab/VideoChat-R1)
-
- Ziang Yan\*， **Xinhao Li\***, Yinan He\*, Zhengrong Yue, Xiangyu Zeng, Yali Wang, Yu Qiao, Limin Wang, Yi Wang <span style="color:#8B0000;">**(NIPS2025)**</span>
-</div>
-</div>
-
-
-<div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
-<div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/videoeval.png" alt="VideoEval" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-</div>
-<div style="flex: 1;">
-
-> ***VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.*** [[Paper]](https://arxiv.org/abs/2407.06491)[[Code]](https://github.com/leexinhao/VideoEval)
-
-**Xinhao Li**, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang
-</div>
-</div>
-
-<div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
-<div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/zeroi2v.png" alt="ZeroI2V" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-</div>
-<div style="flex: 1;">
-
-> ***ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video.*** [[Paper]](https://arxiv.org/abs/2310.01324)[[Code]](https://github.com/leexinhao/ZeroI2V)
-
-**Xinhao Li**, Yuhan Zhu, Limin Wang <span style="color:#8B0000;">**(ECCV2024)**</span>
+<p> Ziang Yan\*， <strong>Xinhao Li\*</strong>, Yinan He\*, Zhengrong Yue, Xiangyu Zeng, Yali Wang, Yu Qiao, Limin Wang, Yi Wang <span style="color:#8B0000;"><strong>(NIPS2025)</strong></span></p>
 </div>
 </div>
 
 
 <div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
 <div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
-<img src="images/papers/kimi-vl.png" alt="Kimi-VL" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videoeval.png" alt="VideoEval" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1;">
+<blockquote>
+<p><strong><em>VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.</em></strong> <a href="https://arxiv.org/abs/2407.06491">[Paper]</a><a href="https://github.com/leexinhao/VideoEval">[Code]</a></p>
+</blockquote>
 
-> ***Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities*** [[Paper]](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf)[[Code]](https://github.com/MoonshotAI/Kimi-VL)
+<p><strong>Xinhao Li</strong>, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang</p>
+</div>
+</div>
 
-Kimi Team
+<div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
+<div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
+<img src="https://leexinhao.github.io/images/papers/zeroi2v.png" alt="ZeroI2V" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+<div style="flex: 1;">
+<blockquote>
+<p><strong><em>ZeroI2V: Zero-Cost Adaptation of Pre-Trained Transformers from Image to Video.</em></strong> <a href="https://arxiv.org/abs/2310.01324">[Paper]</a><a href="https://github.com/leexinhao/ZeroI2V">[Code]</a></p>
+</blockquote>
+
+<p><strong>Xinhao Li</strong>, Yuhan Zhu, Limin Wang <span style="color:#8B0000;"><strong>(ECCV2024)</strong></span></p>
+</div>
+</div>
+
+
+<div style="display: flex; margin-bottom: 30px; align-items: flex-start;">
+<div style="width: 200px; margin-right: 20px; flex-shrink: 0;">
+<img src="https://leexinhao.github.io/images/papers/kimi-vl.png" alt="Kimi-VL" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+<div style="flex: 1;">
+<blockquote>
+<p><strong><em>Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities</em></strong> <a href="https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf">[Paper]</a><a href="https://github.com/MoonshotAI/Kimi-VL">[Code]</a></p>
+</blockquote>
+
+<p>Kimi Team</p>
 </div>
 </div>
 
