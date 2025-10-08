@@ -14,6 +14,17 @@
   margin-bottom: 0.5em;
 }
 
+/* Override paragraph spacing for publications */
+.article-wrap p {
+  margin: 0 0 1em !important;
+  line-height: 1.6 !important;
+}
+
+.article-wrap blockquote p {
+  margin: 0 !important;
+  line-height: 1.4 !important;
+}
+
 /* Base: narrow gutters on small screens */
 #main article,
 #index,
