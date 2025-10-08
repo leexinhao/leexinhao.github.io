@@ -49,10 +49,34 @@
 /* Optimize publication page layout */
 body.page .article-author-top {
   margin-bottom: 0 !important;
+  padding: 0.5em !important;
 }
 
 body.page #main {
   margin-top: -3em;
+}
+
+/* Reduce author bio photo size and spacing */
+.article-author-top .bio-photo {
+  width: 80px !important;
+  height: 80px !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Reduce author bio link spacing */
+.article-author-top p {
+  margin: 0.2em 0 !important;
+  font-size: 0.9em !important;
+}
+
+.article-author-top p[style*="margin-top:1.5em"] {
+  margin-top: 0.5em !important;
+}
+
+/* Make author bio more compact */
+.article-author-top {
+  width: 120px !important;
+  padding: 0.5em !important;
 }
 
 /* Base: narrow gutters on small screens */
@@ -79,8 +103,19 @@ body.page #main {
   }
   /* keep article side-by-side with left author sidebar */
   #main article {
-    margin-left:25%; /* 4.1667% + 16.6667% + 4.1667% */
+    margin-left:20%; /* Reduced from 25% to 20% */
     margin-right:5%;
+  }
+  
+  /* Make author bio even more compact on larger screens */
+  .article-author-top {
+    width: 100px !important;
+    padding: 0.3em !important;
+  }
+  
+  .article-author-top .bio-photo {
+    width: 70px !important;
+    height: 70px !important;
   }
 }
 
@@ -97,8 +132,23 @@ body.page #main {
   /* align with larger author sidebar geometry at wide screens */
   #main article {
     width:70%;
-    margin-left:29.166666667%; /* 16.6667% + 12.5% */
+    margin-left:25%; /* Reduced from 29.166666667% to 25% */
     margin-right:0;
+  }
+  
+  /* Further optimize author bio for very wide screens */
+  .article-author-top {
+    width: 90px !important;
+    padding: 0.2em !important;
+  }
+  
+  .article-author-top .bio-photo {
+    width: 60px !important;
+    height: 60px !important;
+  }
+  
+  .article-author-top p {
+    font-size: 0.8em !important;
   }
 }
 
