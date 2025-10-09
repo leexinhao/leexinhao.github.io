@@ -55,16 +55,37 @@
 body.page .article-author-top {
   margin-bottom: 0 !important;
   padding: 0.5em !important;
-  margin-top: 2em !important; /* Move author info down */
+  margin-top: 0 !important; /* Remove top margin */
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+  height: auto !important;
 }
 
 body.page #main {
   margin-top: -1em; /* Reduced negative margin to work with moved author info */
+  display: flex !important;
+  align-items: flex-start !important;
 }
 
 /* Adjust main content positioning for better alignment */
 body.page #main article {
   margin-top: 0 !important; /* Reset article margin */
+  flex: 1 !important;
+  align-self: flex-start !important;
+}
+
+/* Ensure article-wrap starts at the same level as author bio */
+body.page .article-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Align h2 titles with author bio top */
+body.page .article-wrap h2 {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 /* Apply similar adjustments to home page and other layouts */
@@ -121,6 +142,15 @@ body.post .article-wrap h2 {
   width: 120px !important;
   padding: 0.5em !important;
   min-height: 200px !important; /* Ensure minimum height for better alignment */
+}
+
+/* Specific adjustments for page layout */
+body.page .article-author-top {
+  width: 120px !important;
+  padding: 0.5em !important;
+  min-height: auto !important;
+  height: auto !important;
+  flex-shrink: 0 !important;
 }
 
 /* Base: narrow gutters on small screens */
