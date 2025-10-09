@@ -177,7 +177,7 @@ body.page .article-author-top {
   }
   /* keep article side-by-side with left author sidebar */
   #main article {
-    margin-left:20%; /* Reduced from 25% to 20% */
+    margin-left:15%; /* Reduced from 20% to 15% */
     margin-right:5%;
   }
   
@@ -206,7 +206,7 @@ body.page .article-author-top {
   /* align with larger author sidebar geometry at wide screens */
   #main article {
     width:70%;
-    margin-left:25%; /* Reduced from 29.166666667% to 25% */
+    margin-left:20%; /* Reduced from 25% to 20% */
     margin-right:0;
   }
   
