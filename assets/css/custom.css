@@ -50,10 +50,27 @@
 body.page .article-author-top {
   margin-bottom: 0 !important;
   padding: 0.5em !important;
+  margin-top: 2em !important; /* Move author info down */
 }
 
 body.page #main {
-  margin-top: -3em;
+  margin-top: -1em; /* Reduced negative margin to work with moved author info */
+}
+
+/* Adjust main content positioning for better alignment */
+body.page #main article {
+  margin-top: 0 !important; /* Reset article margin */
+}
+
+/* Apply similar adjustments to home page and other layouts */
+body.home .article-author-top,
+body.post .article-author-top {
+  margin-top: 1.5em !important; /* Move author info down on other pages too */
+}
+
+body.home #main,
+body.post #main {
+  margin-top: -1em;
 }
 
 /* Reduce author bio photo size and spacing */
