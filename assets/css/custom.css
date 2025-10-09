@@ -74,6 +74,8 @@ body.page #main article {
   margin-top: 0 !important; /* Reset article margin */
   flex: 1 !important;
   align-self: flex-start !important;
+  margin-left: 15% !important; /* Reduce left margin for page layout */
+  margin-right: 5% !important;
 }
 
 /* Ensure article-wrap starts at the same level as author bio */
@@ -223,6 +225,12 @@ body.page .article-author-top {
   
   .article-author-top p {
     font-size: 0.8em !important;
+  }
+  
+  /* Adjust page layout for very wide screens */
+  body.page #main article {
+    margin-left: 20% !important;
+    margin-right: 0 !important;
   }
 }
 
