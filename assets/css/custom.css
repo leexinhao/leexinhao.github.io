@@ -74,7 +74,7 @@ body.page #main article {
   margin-top: 0 !important; /* Reset article margin */
   flex: 1 !important;
   align-self: flex-start !important;
-  margin-left: 15% !important; /* Reduce left margin for page layout */
+  margin-left: 10% !important; /* Reduce left margin for page layout */
   margin-right: 5% !important;
 }
 
@@ -183,6 +183,12 @@ body.page .article-author-top {
     margin-right:5%;
   }
   
+  /* Override main.css for page layout */
+  body.page #main article {
+    margin-left: 10% !important;
+    margin-right: 5% !important;
+  }
+  
   /* Make author bio even more compact on larger screens */
   .article-author-top {
     width: 100px !important;
@@ -229,7 +235,7 @@ body.page .article-author-top {
   
   /* Adjust page layout for very wide screens */
   body.page #main article {
-    margin-left: 20% !important;
+    margin-left: 15% !important;
     margin-right: 0 !important;
   }
 }
