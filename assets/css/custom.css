@@ -2,7 +2,7 @@
 
 /* Reduce top spacing for main content area */
 #main {
-  margin-top: -2em;
+  margin-top: -3em;
 }
 
 #main article {
@@ -11,7 +11,7 @@
 
 /* Reduce navigation wrapper padding */
 .navigation-wrapper {
-  padding: 0.5em 0 1em !important;
+  padding: 0.2em 0 0.5em !important;
 }
 
 /* Reduce author bio top spacing */
@@ -21,7 +21,12 @@
 
 /* Reduce site name bottom margin */
 .site-name {
-  margin-bottom: 0.5em !important;
+  margin-bottom: 0.2em !important;
+}
+
+/* Reduce top navigation margin */
+.top-navigation {
+  margin-bottom: 0.2em !important;
 }
 
 .headline-wrap h1 {
@@ -65,12 +70,12 @@ body.page #main article {
 /* Apply similar adjustments to home page and other layouts */
 body.home .article-author-top,
 body.post .article-author-top {
-  margin-top: 1.5em !important; /* Move author info down on other pages too */
+  margin-top: 0.5em !important; /* Reduced from 1.5em to 0.5em */
 }
 
 body.home #main,
 body.post #main {
-  margin-top: -1em;
+  margin-top: -2em; /* Increased negative margin */
 }
 
 /* Reduce author bio photo size and spacing */
