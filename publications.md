@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-# Selected
+## Selected
 **\* equal contribution**
 
 <div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
