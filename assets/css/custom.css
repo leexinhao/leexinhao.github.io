@@ -71,11 +71,32 @@ body.page #main article {
 body.home .article-author-top,
 body.post .article-author-top {
   margin-top: 0.5em !important; /* Reduced from 1.5em to 0.5em */
+  padding-bottom: 1em !important; /* Add bottom padding to extend author bio area */
 }
 
 body.home #main,
 body.post #main {
   margin-top: -2em; /* Increased negative margin */
+}
+
+/* Ensure main content starts at the same level as author bio */
+body.home #main article,
+body.post #main article {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Adjust main content to align with author bio */
+body.home .article-wrap,
+body.post .article-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Ensure h2 titles start at proper level */
+body.home .article-wrap h2,
+body.post .article-wrap h2 {
+  margin-top: 0 !important;
 }
 
 /* Reduce author bio photo size and spacing */
@@ -99,6 +120,7 @@ body.post #main {
 .article-author-top {
   width: 120px !important;
   padding: 0.5em !important;
+  min-height: 200px !important; /* Ensure minimum height for better alignment */
 }
 
 /* Base: narrow gutters on small screens */
