@@ -235,7 +235,7 @@ body.page .article-author-top {
   
   /* Adjust page layout for very wide screens */
   body.page #main article {
-    margin-left: 5% !important;
+    margin-left: 0% !important;
     margin-right: 0 !important;
   }
 }
