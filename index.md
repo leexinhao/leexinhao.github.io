@@ -33,13 +33,14 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 ### Post-Finetuning for MLLM with **Reinforcement Learning 💪**
 
 - GRPO for Spatial-Temporal Perception: ***[VideoChat-R1](https://arxiv.org/abs/2504.06958)***
-- GRPO for Visual Test-Time Scaling: *VTTS*
+- GRPO for Visual Test-Time Scaling: ***[VideoChat-R1.5/VTTS](https://arxiv.org/abs/2509.21100)***
 - GRPO for Video Caption: *VideoCap-R1*
 - DPO for Long Video Understanding: *LongVPO*
 
 ---
 
 ## News and Updates
+- **Feb 2026:** Three papers are accepted by ICLR2026.
 - **Feb 2025:** Three papers are accepted by NIPS2025 and one are selected as spotlight.
 - **Apr 2025:** 🔥🔥🔥We present [VideoChat-R1](https://arxiv.org/abs/2504.06958), a new attempt of R1-style training for Video MLLM.
 - **Feb 2025:** One paper is accepted by ICLR2025 and two papers are accepted by CVPR2025.

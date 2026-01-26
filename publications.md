@@ -43,7 +43,7 @@ title: Publications
 <p style="margin: 0; font-size: 1.1em;"><strong><em>VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling</em></strong> <a href="https://arxiv.org/abs/2501.00574">[Paper]</a><a href="https://github.com/OpenGVLab/VideoChat-Flash">[Code]</a></p>
 </blockquote>
 
-<p style="margin: 0; font-size: 1em;"><strong>Xinhao Li*</strong>, Yi Wang*, Jiashuo Yu*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang</p>
+<p style="margin: 0; font-size: 1em;"><strong>Xinhao Li*</strong>, Yi Wang*, Jiashuo Yu*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang<span style="color:#8B0000;"><strong>(ICLR2026)</strong></span></p>
 </div>
 </div>
 
