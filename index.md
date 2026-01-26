@@ -40,7 +40,7 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 ---
 
 ## News and Updates
-- **Feb 2026:** Three papers are accepted by ICLR2026.
+- **Jan 2026:** Three papers are accepted by ICLR2026.
 - **Feb 2025:** Three papers are accepted by NIPS2025 and one are selected as spotlight.
 - **Apr 2025:** 🔥🔥🔥We present [VideoChat-R1](https://arxiv.org/abs/2504.06958), a new attempt of R1-style training for Video MLLM.
 - **Feb 2025:** One paper is accepted by ICLR2025 and two papers are accepted by CVPR2025.
