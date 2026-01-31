@@ -17,7 +17,7 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 ### Building and Evaluation of **Video Foundation Models 🚀**
 
 - Scaling Video-Language Data: *InternVid* and Video Foundation Models: ***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
-- Efficient Model Architecture of Video Foundation Models: ***[ZeroI2V](https://arxiv.org/abs/2310.01324)***, *Videomamba*
+- Efficient Model Architecture of Video Foundation Models: ***[ZeroI2V](https://arxiv.org/abs/2310.01324)***, *VideoMamba*
 - Evaluation of Video Foundation Models: *VideoEval*
 
 ### Building and Evaluation of **Video Multimodal Large Language Models (MLLMs) 🦜**
