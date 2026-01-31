@@ -14,8 +14,11 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 
 ## Research Interests
 
-> Any academic exchanges and cooperation are welcome!
+### Building and Evaluation of **Video Foundation Models 🚀**
 
+- Scaling Video-Language Data: *InternVid* and Video Foundation Models: ***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
+- Efficient Model Architecture of Video Foundation Models: ***[ZeroI2V](https://arxiv.org/abs/2310.01324)***, *Videomamba*
+- Evaluation of Video Foundation Models: *VideoEval*
 
 ### Building and Evaluation of **Video Multimodal Large Language Models (MLLMs) 🦜**
 
@@ -23,13 +26,6 @@ I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everythin
 - Fine-Grained and Long Video Understanding: ***[VideoChat-Flash](https://arxiv.org/abs/2501.00574)***, ***[InternVideo2.5](https://arxiv.org/abs/2501.12386)***, *TimeSuite, TPO*
 - Model and Benchmark for Online Video Understanding: ***[VideoChat-Online/OVBench](https://arxiv.org/abs/2501.00584v2)***, *StreamForest/ODV-Bench*
 - Benchmark for Video Caption and Retrieval: *CaReBench* and Complex Video Reasoning: *VideoReasonBench* 
-
-### Building and Evaluation of **Video Foundation Models 🚀**
-
-- Scaling Video-Language Data: *InternVid* and Video Foundation Models: ***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
-- Efficient Model Architecture of Video Foundation Models: *Videomamba, ZeroI2V*
-- Evaluation of Video Foundation Models: *VideoEval*
-
 
 ### Post-Finetuning for Video MLLMs with **Reinforcement Learning 💪**
 
