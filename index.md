@@ -10,36 +10,36 @@ layout: page
 
 > Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. WeChat ID is **lxh18470435117**.
 
-I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/). Before that, I worked as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). I am working as a intern in [ByteDance Seed](https://seed.bytedance.com/). Before that, I worked as a research intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/) (2025.04-2026.01) and [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
 
 ## Research Interests
 
 > Any academic exchanges and cooperation are welcome!
 
+
+### Building and Evaluation of **Video Multimodal Large Language Models (MLLMs) 🦜**
+
+- I completed the architecture design and training of the Vision Encoder (MoonViT3d) for ***[Kimi K2.5](https://github.com/MoonshotAI/Kimi-K2.5/tree/master)*** and constructed the video pre-training and post-training datasets.
+- Fine-Grained and Long Video Understanding: ***[VideoChat-Flash](https://arxiv.org/abs/2501.00574)***, ***[InternVideo2.5](https://arxiv.org/abs/2501.12386)***, *TimeSuite, TPO*
+- Model and Benchmark for Online Video Understanding: ***[VideoChat-Online/OVBench](https://arxiv.org/abs/2501.00584v2)***, *StreamForest/ODV-Bench*
+- Benchmark for Video Caption and Retrieval: *CaReBench* and Complex Video Reasoning: *VideoReasonBench* 
+
 ### Building and Evaluation of **Video Foundation Models 🚀**
 
-- Scaling Video Foundation Models：***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
-- Scaling Video-Language Data: *InternVid*
-- Efficient Model Architecture of Video Foundation Model: *Videomamba, ZeroI2V*
+- Scaling Video-Language Data: *InternVid* and Video Foundation Models: ***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
+- Efficient Model Architecture of Video Foundation Models: *Videomamba, ZeroI2V*
 - Evaluation of Video Foundation Models: *VideoEval*
 
-### Building and Evaluation of **Multimodal Language Models (MLLM) 🦜**
 
-- Fine-Grained and Long Video Understanding: ***[VideoChat-Flash](https://arxiv.org/abs/2501.00574)**, **[InternVideo2.5](https://arxiv.org/abs/2501.12386)**, TimeSuite, TPO*
-- Model and Benchmark for Online Video Understanding: ***[VideoChat-Online/OVBench](https://arxiv.org/abs/2501.00584v2)**, StreamForest/ODV-Bench*
-- Benchmark for Video Caption and Retrieval: *CaReBench*
-- Benchmark for Complex Video Reasoning: *VideoReasonBench* 
+### Post-Finetuning for Video MLLMs with **Reinforcement Learning 💪**
 
-### Post-Finetuning for MLLM with **Reinforcement Learning 💪**
-
-- GRPO for Spatial-Temporal Perception: ***[VideoChat-R1](https://arxiv.org/abs/2504.06958)***
-- GRPO for Visual Test-Time Scaling: ***[VideoChat-R1.5/VTTS](https://arxiv.org/abs/2509.21100)***
-- GRPO for Video Caption: *VideoCap-R1*
-- DPO for Long Video Understanding: *LongVPO*
+- GRPO for Spatial-Temporal Perception: ***[VideoChat-R1](https://arxiv.org/abs/2504.06958)***, Visual Test-Time Scaling: ***[VideoChat-R1.5/VTTS](https://arxiv.org/abs/2509.21100)***, and Video Caption: *VideoCap-R1*.
 
 ---
 
 ## News and Updates
+
+- **Jan 2026:** Heartfelt congratulations on the release of [Kimi K2.5](https://github.com/MoonshotAI/Kimi-K2.5/tree/master).
 - **Jan 2026:** Three papers are accepted by ICLR2026.
 - **Feb 2025:** Three papers are accepted by NIPS2025 and one are selected as spotlight.
 - **Apr 2025:** 🔥🔥🔥We present [VideoChat-R1](https://arxiv.org/abs/2504.06958), a new attempt of R1-style training for Video MLLM.

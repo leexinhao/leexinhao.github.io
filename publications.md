@@ -21,18 +21,7 @@ title: Publications
 </div>
 </div>
 
-<div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-<div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
-<img src="https://leexinhao.github.io/images/papers/internvideo2.5.png" alt="InternVideo2.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-</div>
-<div style="flex: 1; line-height: 1.6;">
-<blockquote style="margin: 0 0 15px 0; padding: 15px; background-color: #fff; border-left: 4px solid #8B0000; border-radius: 4px;">
-<p style="margin: 0; font-size: 1.1em;"><strong><em>InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling</em></strong>  <a href="https://arxiv.org/abs/2501.12386">[Paper]</a><a href="https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5">[Code]</a></p>
-</blockquote>
 
-<p style="margin: 0; font-size: 1em;">Yi Wang*,  <strong>Xinhao Li*</strong>, Ziang Yan*, Yinan He*, Jiashuo Yu*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang</p>
-</div>
-</div>
 
 <div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 <div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
@@ -46,6 +35,35 @@ title: Publications
 <p style="margin: 0; font-size: 1em;"><strong>Xinhao Li*</strong>, Yi Wang*, Jiashuo Yu*, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang<span style="color:#8B0000;"><strong>(ICLR2026)</strong></span></p>
 </div>
 </div>
+
+
+
+<div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
+<img src="https://leexinhao.github.io/images/papers/k2.5.png" alt="Kimi-K2.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+<div style="flex: 1; line-height: 1.6;">
+<blockquote style="margin: 0 0 15px 0; padding: 15px; background-color: #fff; border-left: 4px solid #8B0000; border-radius: 4px;">
+<p style="margin: 0; font-size: 1.1em;"><strong><em>Kimi K2.5: Visual Agentic Intelligence</em></strong> <a href="https://www.kimi.com/blog/kimi-k2-5.html">[Blog]</a><a href="https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf">[Paper]</a></p>
+</blockquote>
+
+<p style="margin: 0; font-size: 1em;">Kimi Team (I completed the architecture design and training of the Vision Encoder and constructed the video pre-training and post-training datasets.)</p>
+</div>
+</div>
+
+<div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
+<img src="https://leexinhao.github.io/images/papers/internvideo2.5.png" alt="InternVideo2.5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+<div style="flex: 1; line-height: 1.6;">
+<blockquote style="margin: 0 0 15px 0; padding: 15px; background-color: #fff; border-left: 4px solid #8B0000; border-radius: 4px;">
+<p style="margin: 0; font-size: 1.1em;"><strong><em>InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling</em></strong>  <a href="https://arxiv.org/abs/2501.12386">[Paper]</a><a href="https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5">[Code]</a></p>
+</blockquote>
+
+<p style="margin: 0; font-size: 1em;">Yi Wang*,  <strong>Xinhao Li*</strong>, Ziang Yan*, Yinan He*, Jiashuo Yu*, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang</p>
+</div>
+</div>
+
 
 <div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 <div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
@@ -89,19 +107,6 @@ title: Publications
 
 <div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 <div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
-<img src="https://leexinhao.github.io/images/papers/videoeval.png" alt="VideoEval" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-</div>
-<div style="flex: 1; line-height: 1.6;">
-<blockquote style="margin: 0 0 15px 0; padding: 15px; background-color: #fff; border-left: 4px solid #8B0000; border-radius: 4px;">
-<p style="margin: 0; font-size: 1.1em;"><strong><em>VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.</em></strong> <a href="https://arxiv.org/abs/2407.06491">[Paper]</a><a href="https://github.com/leexinhao/VideoEval">[Code]</a></p>
-</blockquote>
-
-<p style="margin: 0; font-size: 1em;"><strong>Xinhao Li</strong>, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang</p>
-</div>
-</div>
-
-<div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-<div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
 <img src="https://leexinhao.github.io/images/papers/zeroi2v.png" alt="ZeroI2V" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1; line-height: 1.6;">
@@ -116,16 +121,19 @@ title: Publications
 
 <div style="display: flex; margin-bottom: 50px; align-items: flex-start; padding: 20px; background-color: #fafafa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 <div style="width: 250px; margin-right: 30px; flex-shrink: 0;">
-<img src="https://leexinhao.github.io/images/papers/kimi-vl.png" alt="Kimi-VL" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="https://leexinhao.github.io/images/papers/videoeval.png" alt="VideoEval" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 1; line-height: 1.6;">
 <blockquote style="margin: 0 0 15px 0; padding: 15px; background-color: #fff; border-left: 4px solid #8B0000; border-radius: 4px;">
-<p style="margin: 0; font-size: 1.1em;"><strong><em>Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities</em></strong> <a href="https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf">[Paper]</a><a href="https://github.com/MoonshotAI/Kimi-VL">[Code]</a></p>
+<p style="margin: 0; font-size: 1.1em;"><strong><em>VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model.</em></strong> <a href="https://arxiv.org/abs/2407.06491">[Paper]</a><a href="https://github.com/leexinhao/VideoEval">[Code]</a></p>
 </blockquote>
 
-<p style="margin: 0; font-size: 1em;">Kimi Team</p>
+<p style="margin: 0; font-size: 1em;"><strong>Xinhao Li</strong>, Zhenpeng Huang, Jing Wang, Kunchang Li, Limin Wang</p>
 </div>
 </div>
+
+
+
 
 # All
 
