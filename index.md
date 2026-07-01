@@ -10,19 +10,19 @@ layout: page
 
 > Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. WeChat ID is **lxh18470435117**.
 
-I am a MS student 🙂 at **Nanjing University** (2023.09—2026.06 if everything goes as expected), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I received a bachelor degree from **Chongqing University** in 2023.06 (Major in computer science and technology 🖥️, GPA: 3.9/4.0 overall rank: 1/295). 
 
-I am working as a intern in [<font color="#006ab1">ByteDance Seed</font>](https://seed.bytedance.com/), and I will become a full-time employee after graduation. Before that, I worked as a research intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/) (2025.04—2026.01) and [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06).
+I am working at [<font color="#006ab1">ByteDance Seed</font>](https://seed.bytedance.com/) as a researcher. Before that, I worked as a research intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/) (2025.04—2026.01) and [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06). I obtained my Master’s degree from Nanjing University (2023.09—2026.06), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my Bachelor’s degre from Chongqing University in 2023.06 (Major in computer science and technology, GPA: 3.9/4.0 overall rank: 1/295). 
+
 
 ## Research Interests
 
-### Building and Evaluation of **Video Foundation Models 🚀**
+### Building and Benchmarking **Video Foundation Models 🚀**
 
 - Scaling Video-Language Data: *InternVid* and Video Foundation Models: ***[InternVideo2](https://arxiv.org/pdf/2403.15377.pdf)***
 - Efficient Model Architecture of Video Foundation Models: ***[ZeroI2V](https://arxiv.org/abs/2310.01324)***, *VideoMamba*
 - Evaluation of Video Foundation Models: *VideoEval*
 
-### Building and Evaluation of **Video Multimodal Large Language Models (MLLMs) 🦜**
+### Building and Benchmarking **Video Multimodal Large Language Models (MLLMs) 🦜**
 
 - I completed the architecture design and training of the Vision Encoder (MoonViT3d) for ***[Kimi K2.5](https://github.com/MoonshotAI/Kimi-K2.5/tree/master)*** and constructed the video pre-training and post-training datasets.
 - Fine-Grained and Long Video Understanding: ***[VideoChat-Flash](https://arxiv.org/abs/2501.00574)***, ***[InternVideo2.5](https://arxiv.org/abs/2501.12386)***, *TimeSuite, TPO*
