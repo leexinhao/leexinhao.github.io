@@ -8,7 +8,7 @@ layout: page
 
 <img src="images/big_xinhao.jpg" style="float: right;" width="327" height="279">
 
-> Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**. WeChat ID is **lxh18470435117**.
+> Nice to meet you !!!😊  Feel free to contact me! My email is **xinhaoli00@outlook.com**.
 
 
 I am working at [<font color="#006ab1">ByteDance Seed</font>](https://seed.bytedance.com/) as a researcher. Before that, I worked as a research intern in [<font color="#006ab1">Moonshot AI</font>](https://www.moonshot.cn/) (2025.04—2026.01) , [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2023.07—2025.04) and [<font color="#006ab1">SenseTime</font>](https://www.sensetime.com) (2022.10—2023.06). I obtained my Master’s degree from Nanjing University (2023.09—2026.06), supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://scholar.google.com.hk/citations?user=HEuN8PcAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my Bachelor’s degre from Chongqing University in 2023.06 (Major in computer science and technology, GPA: 3.9/4.0 overall rank: 1/295). 
